@@ -13,3 +13,5 @@ search: hello world
 with_v: false
 
 DEFAULT_BUMP: major
+
+#minor
