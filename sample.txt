@@ -18,4 +18,6 @@ DEFAULT_BUMP: major
 should be
 #major 1 #minor 1
 typo
+typo
+
 
